@@ -1,19 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luDTygZ6uAwaknc2isXZcz8YMvE.jpg",MA - 45
-eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIxMzU5MzU3Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9
-#EXTINF:-1 group-title="Diğer",MA - Champion
-eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIxMzU5MzU4Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fo7TpR3Pyfxl7DjT3VlvMFgFeOd.jpg",MA - Gurram Paapi Reddy
-eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIxMzU5MzU5Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hvwy7gUXZGxsAOIhrisSoo0RFB.jpg",MA - Hathane Udaya
-eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIxMzU5MzYwIiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9
-#EXTINF:-1 group-title="Diğer",MA - Mark
-eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIxMzU5MzYxIiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ce2c2P02fwCTS18vjMXlAZ4hPeb.jpg",MA - Odiyangam
-eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIxMzU5MzYyIiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgLY1aQayVX6dQ2DiylLAhjEG8w.jpg",MA - Sarvam Maya
-eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIxMzU5MzYzIiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHzF7u07vUL9nLa1VSH7uUVnHl1.jpg",MA - Sheshippu
-eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIxMzU5MzY0Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mltVJD7mBayiw1BubwUL0cx6T1c.jpg",MA - Sirai
-eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIxMzU5MzY1Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYJLb69aANQhf6EvewCnKRpiJ5O.jpg",DE - Das weisse Rauschen (2001)
+eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIxMzU3MDAxIiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OajRBANQBtmcvQmHJlfwvHb11J.jpg",DE - Der geheime Garten (1993)
+eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIxMzU3MDA1Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWmyTX8mYpRSAbBD20VJ2mZUPHX.jpg",DE - Der Mann im Mond (1991)
+eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIxMzU3MDA4Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMT4cSa0q9suGDnAhzpZMvJvu5F.jpg",DE - Der Medicus (2013)
+eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIxMzU3MDA5Iiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndjYPpOg2pvyKbKUT6dWJoXDeeU.jpg",DE - Der Moment der Wahrheit (2015)
+eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIxMzU3MDEwIiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4gJCkL3BObYEWSubP0y8mDpPqO.jpg",DE - Der schwarze Fluch (1995)
+eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIxMzU3MDExIiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFlaWEkjbb0W1yBoSvP6hiV4fsi.jpg",DE - Der Tausch (2016)
+eyJ0eXBlIjoibW92aWUiLCJzdHJlYW1faWQiOiIxMzU3MDEyIiwic3RyZWFtX3NvdXJjZSI6bnVsbCwidGFyZ2V0X2NvbnRhaW5lciI6IltcIm1rdlwiXSJ9
