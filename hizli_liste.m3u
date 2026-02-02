@@ -1,131 +1,53 @@
 #EXTM3U
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",#####  BEIN SPORTS  #####
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=686362&extension=ts&play_token=AnHHcPAKPR
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",##### SPORT #####
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260071&extension=ts&play_token=vzTEh508xm
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",#####. EXXEN SPORTS. #####
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=686505&extension=ts&play_token=LSBjgiUMdC
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",D-TR - EXXEN SPOR 1 FHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=618907&extension=ts&play_token=pnyzotiXt7
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",D-TR - EXXEN SPOR 2 FHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=618906&extension=ts&play_token=gNX9BxTl8J
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",D-TR - EXXEN SPOR 3 FHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=618905&extension=ts&play_token=Kbj6aOwgHU
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - A SPOR FHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260095&extension=ts&play_token=i1HEfFdXBJ
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - A SPOR UHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260096&extension=ts&play_token=8kRrosDQez
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 1 FHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260072&extension=ts&play_token=xHp9EF1kYD
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 1 HD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=686360&extension=ts&play_token=XR8ffKJH85
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 1 UHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260080&extension=ts&play_token=rn6S2NJC67
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 1 UHD HEVC
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260073&extension=ts&play_token=ZBVtrjyfR6
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 2 HD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=686363&extension=ts&play_token=kBn9wePotw
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 2 UHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260081&extension=ts&play_token=11RKOYD85v
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 2 UHD HEVC
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260074&extension=ts&play_token=oMPKfd0YXy
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 2 UHD+
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260075&extension=ts&play_token=hTYVS56VVC
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 3 FHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260076&extension=ts&play_token=0NOdGTrm4N
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 3 HD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=686364&extension=ts&play_token=vyUaMPNG2Z
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 3 UHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260082&extension=ts&play_token=eSPv9WQC11
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 3 UHD HEVC
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260077&extension=ts&play_token=01uJcIu9O7
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 4 FHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260078&extension=ts&play_token=igfaMtLQPV
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 4 HD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=686365&extension=ts&play_token=Nyd5yVkQsL
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 4 UHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260083&extension=ts&play_token=tNgSnY8mV0
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 4 UHD HEVC
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260079&extension=ts&play_token=h6n6qM3Miq
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT MAX 1 FHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260084&extension=ts&play_token=WsS46uRx2x
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT MAX 1 HD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=686439&extension=ts&play_token=UjIRf3jDyi
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT MAX 2 FHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260085&extension=ts&play_token=mXnEdItcpS
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT MAX 2 HD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=686503&extension=ts&play_token=2EOkb9CNGa
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORTS HABER HD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=686359&extension=ts&play_token=qEBJ2HwWc3
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EUROSPORT 1 UHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260097&extension=ts&play_token=JYx0g0nMbX
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EUROSPORT 2 UHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260098&extension=ts&play_token=vdAgGDhveR
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EXXEN SPORT 1 HD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=686504&extension=ts&play_token=RHMRbRpypB
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EXXEN SPORT 1 HD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=618910&extension=ts&play_token=LGbDh8smLw
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EXXEN SPORT 2 HD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=686506&extension=ts&play_token=1aeXP2DmMW
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EXXEN SPORT 2 HD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=618909&extension=ts&play_token=XkHMlgfUId
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EXXEN SPORT 3 HD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=686507&extension=ts&play_token=5WqsdHkMia
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EXXEN SPORT 3 HD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=618908&extension=ts&play_token=SjCacGk351
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EXXEN SPORT 4 HD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=1053274&extension=ts&play_token=OBe0z7G1LE
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EXXEN SPORT 5 HD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=1053273&extension=ts&play_token=ThRaicsgYn
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EXXEN SPORT 6 HD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=1053272&extension=ts&play_token=se2uzShhsh
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EXXEN SPORT 7 HD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=1053271&extension=ts&play_token=vTOYPvAKTF
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EXXEN SPORT 8 HD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=1053270&extension=ts&play_token=Zl2Haw3KJU
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - FENERBAHÇE TV UHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260100&extension=ts&play_token=B0JkoagIMn
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - GALATASARAY TV UHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260099&extension=ts&play_token=UJHB5vlSNS
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - HABER TURK SPOR
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=1156422&extension=ts&play_token=R3bRjbubsm
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - MELTEM TV
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=662106&extension=ts&play_token=jIgZ64IErS
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - S SPORT 1
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=683162&extension=ts&play_token=2d2RrsPC0o
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - S SPORT 2
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=683163&extension=ts&play_token=fAb5MWNcE9
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - S SPORT PLUS HD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=943835&extension=ts&play_token=LkDZhjn645
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - S SPORT PLUS+1
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=1288110&extension=ts&play_token=saGknoJYDV
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - S SPORT PLUS+2
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=1288111&extension=ts&play_token=qQ3ttR7dfi
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - SMART SPORT 2 UHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=943222&extension=ts&play_token=wpiMichTK1
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - SMART SPORT UHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260087&extension=ts&play_token=RRuJuKi9GC
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - SMART SPORT UHD+
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260086&extension=ts&play_token=yEOSXpEgmL
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - TIVIBU SPORT 1 UHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260089&extension=ts&play_token=HtR89YNLMY
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - TIVIBU SPORT 1 UHD+
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260088&extension=ts&play_token=90a0xZQHLg
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - TIVIBU SPORT 2 UHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260091&extension=ts&play_token=m7imhe8sae
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - TIVIBU SPORT 2 UHD+
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260090&extension=ts&play_token=z3iTi5fYwK
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - TIVIBU SPORT 3 UHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=1035121&extension=ts&play_token=V8nlDx3c1w
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - TIVIBU SPORT 4 UHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=1060515&extension=ts&play_token=V5GLEChbJF
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - TIVIBU SPORT UHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=1060514&extension=ts&play_token=oIiXF9B45I
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - TJK TV
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260103&extension=ts&play_token=XV0KwkaaoB
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - TRT SPOR FHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260092&extension=ts&play_token=QDOw9KUkVu
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - TRT SPOR UHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260093&extension=ts&play_token=72wV1Vbllo
-#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - TRT SPORT 2 UHD
-http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=260094&extension=ts&play_token=HwT1APcXLX
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",##### COCUK #####
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259947&extension=ts&play_token=upcnHKEQMJ
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - BABY TV
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259953&extension=ts&play_token=ASh1Rn38rV
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - BABY TV
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259954&extension=ts&play_token=MOIXCpf9Ki
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - BOOMERANG UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259955&extension=ts&play_token=Sc7SHbbxIL
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - CARTOON NETWORK
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259956&extension=ts&play_token=YWanHaAnEk
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - CARTOON NETWORK UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259957&extension=ts&play_token=p2fsC7P9tX
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - CBEEBIES
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259948&extension=ts&play_token=yRMkEcp3rQ
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - COCUK SMART UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259949&extension=ts&play_token=o3s43pVzlm
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - DISNEY CHANNEL
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259959&extension=ts&play_token=HKITtk5Xq1
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - DISNEY CHANNEL UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259958&extension=ts&play_token=5poKVNYFpO
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - DISNEY JR UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259960&extension=ts&play_token=aiY8ygqlox
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - DISNEY JUNIOR
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259961&extension=ts&play_token=hhnbF2wB9T
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - KUKULI TV
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259950&extension=ts&play_token=Eze5I82y12
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - MINIKA COCUK
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259969&extension=ts&play_token=Z9YiGZdMJF
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - MİNİKA ÇOCUK UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259968&extension=ts&play_token=xnyJbQuM55
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - MINIKA GO TV
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259971&extension=ts&play_token=5ne2udgw5H
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - MİNİKA GO UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259970&extension=ts&play_token=Zs77zrg4bX
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - NICK JR
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259951&extension=ts&play_token=EIcwiLybm7
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - NICK JR
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259965&extension=ts&play_token=YwFOcFX3Kv
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - NİCKELODEON
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259967&extension=ts&play_token=9KFkqzPHay
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - NICKELODEON TURKIYE
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259966&extension=ts&play_token=jWiVF7l5jB
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - NILOYA TV
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259972&extension=ts&play_token=FvP4DVtOuE
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - RAFADAN TAYFA TV
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259974&extension=ts&play_token=rvWXeMoZDz
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - TRT ÇOCUK
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259964&extension=ts&play_token=Wvumcs8DrZ
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - TRT COCUK UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259952&extension=ts&play_token=C8EM6NKGtK
+#EXTINF:-1 group-title="|AS| TURKEY | COCUK",TR - TRT ÇOCUK UHD
+http://c7.myottes.me:80/play/live.php?mac=00:1A:79:56:52:72&stream=259963&extension=ts&play_token=UgXnjf2wGR
