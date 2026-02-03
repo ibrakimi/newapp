@@ -1,43 +1,51 @@
 #EXTM3U
-#EXTINF:-1 group-title="US| HULU NETWORK",##### HULU ORIGINALS #####
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:44:51:E2&stream=1095454&extension=ts&play_token=SDP00V6K4o
-#EXTINF:-1 group-title="US| HULU NETWORK",US| HULU ORIGINALS 1 ᴴᴰ
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:44:51:E2&stream=1095452&extension=ts&play_token=OlvMgNcXNL
-#EXTINF:-1 group-title="US| HULU NETWORK",US| HULU ORIGINALS 10 ᴴᴰ
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:44:51:E2&stream=1095443&extension=ts&play_token=18xfipdGcS
-#EXTINF:-1 group-title="US| HULU NETWORK",US| HULU ORIGINALS 11 ᴴᴰ
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:44:51:E2&stream=1095442&extension=ts&play_token=a0cCNfBxBH
-#EXTINF:-1 group-title="US| HULU NETWORK",US| HULU ORIGINALS 12 ᴴᴰ
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:44:51:E2&stream=1095441&extension=ts&play_token=ZkrIv2S9R0
-#EXTINF:-1 group-title="US| HULU NETWORK",US| HULU ORIGINALS 13 ᴴᴰ
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:44:51:E2&stream=1095440&extension=ts&play_token=CAc8Sb4t3E
-#EXTINF:-1 group-title="US| HULU NETWORK",US| HULU ORIGINALS 14 ᴴᴰ
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:44:51:E2&stream=1095439&extension=ts&play_token=MebFLHGiBm
-#EXTINF:-1 group-title="US| HULU NETWORK",US| HULU ORIGINALS 15 ᴴᴰ
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:44:51:E2&stream=1095438&extension=ts&play_token=nTjDzZqVFe
-#EXTINF:-1 group-title="US| HULU NETWORK",US| HULU ORIGINALS 16 ᴴᴰ
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:44:51:E2&stream=1095437&extension=ts&play_token=ww5Z8rZ8w2
-#EXTINF:-1 group-title="US| HULU NETWORK",US| HULU ORIGINALS 17 ᴴᴰ
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:44:51:E2&stream=1095436&extension=ts&play_token=A3eboVH2mw
-#EXTINF:-1 group-title="US| HULU NETWORK",US| HULU ORIGINALS 18 ᴴᴰ
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:44:51:E2&stream=1095435&extension=ts&play_token=mCAQzYYb8P
-#EXTINF:-1 group-title="US| HULU NETWORK",US| HULU ORIGINALS 19 ᴴᴰ
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:44:51:E2&stream=1095434&extension=ts&play_token=DVwIHilp3T
-#EXTINF:-1 group-title="US| HULU NETWORK",US| HULU ORIGINALS 2 ᴴᴰ
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:44:51:E2&stream=1095451&extension=ts&play_token=mqEIsbTB5O
-#EXTINF:-1 group-title="US| HULU NETWORK",US| HULU ORIGINALS 3 ᴴᴰ
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:44:51:E2&stream=1095450&extension=ts&play_token=plfyE6RVGy
-#EXTINF:-1 group-title="US| HULU NETWORK",US| HULU ORIGINALS 4 ᴴᴰ
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:44:51:E2&stream=1095449&extension=ts&play_token=988CNg64Z4
-#EXTINF:-1 group-title="US| HULU NETWORK",US| HULU ORIGINALS 5 ᴴᴰ
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:44:51:E2&stream=1095448&extension=ts&play_token=1jlmgmjzXI
-#EXTINF:-1 group-title="US| HULU NETWORK",US| HULU ORIGINALS 6 ᴴᴰ
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:44:51:E2&stream=1095447&extension=ts&play_token=a6dm0h7qPT
-#EXTINF:-1 group-title="US| HULU NETWORK",US| HULU ORIGINALS 7 ᴴᴰ
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:44:51:E2&stream=1095446&extension=ts&play_token=13ONaXvfLt
-#EXTINF:-1 group-title="US| HULU NETWORK",US| HULU ORIGINALS 8 ᴴᴰ
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:44:51:E2&stream=1095445&extension=ts&play_token=Y3gU6SjitO
-#EXTINF:-1 group-title="US| HULU NETWORK",US| HULU ORIGINALS 9 ᴴᴰ
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:44:51:E2&stream=1095444&extension=ts&play_token=qLttTcwAYU
-#EXTINF:-1 group-title="US| HULU NETWORK",US| HULU ORIGINALS INFO ᴴᴰ
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:44:51:E2&stream=1095453&extension=ts&play_token=ZBlSXwkiHc
+#EXTINF:-1 group-title="TR| MAC KANALLARI",##### TR BEIN SPOR #####
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=913462&extension=ts&play_token=SqOoUS73Gs
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 1
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=913460&extension=ts&play_token=O9lG6Kagsa
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 1 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=913458&extension=ts&play_token=MPJTHxwYnc
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 1 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=913457&extension=ts&play_token=oDkIuSN2sz
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 1 FHD FEED
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=913447&extension=ts&play_token=ZgZsa6kcPM
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 1 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=913459&extension=ts&play_token=TQpsM3aVZ9
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 1 HD 1080
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=913446&extension=ts&play_token=hWli00q5Dc
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 1 UHD ULTRA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=913448&extension=ts&play_token=bCMS60vLdU
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=913455&extension=ts&play_token=nfuo0bcfXT
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 2 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=913456&extension=ts&play_token=yoWALraMz2
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 2 HD 1080
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=913445&extension=ts&play_token=PDHIA1IpH7
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 3 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=913454&extension=ts&play_token=rDs9KK6ePH
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 3 HD 1080
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=913444&extension=ts&play_token=ckjJjdLvxK
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 4 HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=913453&extension=ts&play_token=8Zr8aPYahH
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 4 HD 1080
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=913443&extension=ts&play_token=8RJquEoVMw
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 5 + FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=1091501&extension=ts&play_token=0bUJzuUtlM
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 5 FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=1091502&extension=ts&play_token=oHw4DDf5Ej
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS HABER 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=912885&extension=ts&play_token=WvsJzvjMyX
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS HABER FHD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=913461&extension=ts&play_token=Xy2T2ZqOAR
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS HABER HD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=913440&extension=ts&play_token=YNYPtmG3C4
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS HABER HD (BK)
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=912884&extension=ts&play_token=0Mw814MScF
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS MAX 1 HD 1080
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=913442&extension=ts&play_token=fT1lZwsgV3
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS MAX 1 HD 720
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=913452&extension=ts&play_token=JrQqCOTrjW
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS MAX 2 HD 1080
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=913441&extension=ts&play_token=rgyp5Ek4Fp
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS MAX 2 HD 720
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:C2:A1:FE&stream=913451&extension=ts&play_token=wo3zu1satb
