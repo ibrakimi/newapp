@@ -1,83 +1,51 @@
 #EXTM3U
-#EXTINF:-1 group-title="TR| TURKIYE",##### TURKIYE 4K / HD #####
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912483&extension=ts&play_token=j80LhhuAy0
-#EXTINF:-1 group-title="TR| TURKIYE",TR| TRT 4K
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=916657&extension=ts&play_token=ef8aIiLcYB
-#EXTINF:-1 group-title="TR| TURKIYE",TR| TRT 1 4K
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912481&extension=ts&play_token=CuLWCSlV4n
-#EXTINF:-1 group-title="TR| TURKIYE",TR| TRT 1 HD
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912457&extension=ts&play_token=qMieouJ648
-#EXTINF:-1 group-title="TR| TURKIYE",TR| TRT 2 4K
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912480&extension=ts&play_token=k66eAHuwnP
-#EXTINF:-1 group-title="TR| TURKIYE",TR| TRT 2 HD
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912456&extension=ts&play_token=uQM0ELKuNz
-#EXTINF:-1 group-title="TR| TURKIYE",TR| ATV 4K
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912479&extension=ts&play_token=ig9gDhVlN4
-#EXTINF:-1 group-title="TR| TURKIYE",TR| ATV HD
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912455&extension=ts&play_token=GGjILHTMg4
-#EXTINF:-1 group-title="TR| TURKIYE",TR| KANAL D 4K
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912478&extension=ts&play_token=DoCUxdAuyx
-#EXTINF:-1 group-title="TR| TURKIYE",TR| KANAL D HD
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912454&extension=ts&play_token=tlnaw3X176
-#EXTINF:-1 group-title="TR| TURKIYE",TR| STAR TV 4K
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912477&extension=ts&play_token=OObyeqDvSp
-#EXTINF:-1 group-title="TR| TURKIYE",TR| STAR TV HD
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912453&extension=ts&play_token=EUi5nfERUz
-#EXTINF:-1 group-title="TR| TURKIYE",TR| TV 8 4K
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912476&extension=ts&play_token=8bwdYYlpS2
-#EXTINF:-1 group-title="TR| TURKIYE",TR| TV 8 HD
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912451&extension=ts&play_token=1x2ZPMtQ8l
-#EXTINF:-1 group-title="TR| TURKIYE",TR| SHOW TV 4K
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912475&extension=ts&play_token=AtUDszvYAI
-#EXTINF:-1 group-title="TR| TURKIYE",TR| SHOW TV HD
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912452&extension=ts&play_token=AsOrMoCa8H
-#EXTINF:-1 group-title="TR| TURKIYE",TR| NOW TV 4K
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912474&extension=ts&play_token=rryG96aAXs
-#EXTINF:-1 group-title="TR| TURKIYE",TR| NOW HD
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912449&extension=ts&play_token=plDBk6m4rk
-#EXTINF:-1 group-title="TR| TURKIYE",TR| TRT WORLD
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=1603686&extension=ts&play_token=E43UAvgooJ
-#EXTINF:-1 group-title="TR| TURKIYE",TR| TV 8 INT 4K
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912473&extension=ts&play_token=X9mf2aiclX
-#EXTINF:-1 group-title="TR| TURKIYE",TR| TV 8.5 4K
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912472&extension=ts&play_token=JYrSBvypbw
-#EXTINF:-1 group-title="TR| TURKIYE",TR| TV 8.5 HD
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912450&extension=ts&play_token=NoCi1F3OJr
-#EXTINF:-1 group-title="TR| TURKIYE",TR| TEVE 2 4K
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912471&extension=ts&play_token=nR3E9yYjFi
-#EXTINF:-1 group-title="TR| TURKIYE",TR| TEVE 2 HD
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=1484841&extension=ts&play_token=oNp8hvH5B4
-#EXTINF:-1 group-title="TR| TURKIYE",TR| KANAL 7 4K
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912470&extension=ts&play_token=Fm6iJghGtk
-#EXTINF:-1 group-title="TR| TURKIYE",TR| KANAL 7 HD
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912448&extension=ts&play_token=iH7HHxl8iD
-#EXTINF:-1 group-title="TR| TURKIYE",TR| BEYAZ TV 4K
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912469&extension=ts&play_token=no9WJwPeT2
-#EXTINF:-1 group-title="TR| TURKIYE",TR| BEYAZ TV HD
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912447&extension=ts&play_token=g1ydvwUtxr
-#EXTINF:-1 group-title="TR| TURKIYE",TR| A2 4K
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912468&extension=ts&play_token=wIKYKOU08d
-#EXTINF:-1 group-title="TR| TURKIYE",TR| A2 HD
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912444&extension=ts&play_token=OgMDlM2lTG
-#EXTINF:-1 group-title="TR| TURKIYE",TR| KANAL 360 4K
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912467&extension=ts&play_token=wKzgVcXCP5
-#EXTINF:-1 group-title="TR| TURKIYE",TR| KANAL 360 HD
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=1484868&extension=ts&play_token=Nee0e3Fh6y
-#EXTINF:-1 group-title="TR| TURKIYE",TR| 360 TV HD
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912443&extension=ts&play_token=0ieZWw7fuM
-#EXTINF:-1 group-title="TR| TURKIYE",TR| FLASH 4K
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=913463&extension=ts&play_token=Bb0iocRA4q
-#EXTINF:-1 group-title="TR| TURKIYE",TR| TRT AVAZ HD
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912446&extension=ts&play_token=5TZ7vVT65V
-#EXTINF:-1 group-title="TR| TURKIYE",TR| TRT TURK HD
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912445&extension=ts&play_token=PXHc2NPOpN
-#EXTINF:-1 group-title="TR| TURKIYE",TR| TV 4 HD
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912442&extension=ts&play_token=ajhIyoBmEo
-#EXTINF:-1 group-title="TR| TURKIYE",TR| TURKMENELI TV HD
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912441&extension=ts&play_token=8lO39TMhRV
-#EXTINF:-1 group-title="TR| TURKIYE",TR| EKIN TURK
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=1796073&extension=ts&play_token=iNgy1SZSVB
-#EXTINF:-1 group-title="TR| TURKIYE",TR| YOL TV
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=1796075&extension=ts&play_token=5RfamDBUku
-#EXTINF:-1 group-title="TR| TURKIYE",TR| YILDIZ TV
-http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=1796074&extension=ts&play_token=amzwTIYYeQ
+#EXTINF:-1 group-title="TR| MAC KANALLARI",##### TR BEIN SPOR #####
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=913462&extension=ts&play_token=uzmKOeGV1r
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS HABER 4K
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912885&extension=ts&play_token=6PSPCHv7XU
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS HABER FHD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=913461&extension=ts&play_token=V2QaUwbWek
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS HABER HD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=913440&extension=ts&play_token=zZeMWTdEn1
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS HABER HD (BK)
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912884&extension=ts&play_token=xFgSi5Sjhf
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 1
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=913460&extension=ts&play_token=NcKC4PBOLB
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 1 HD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=913459&extension=ts&play_token=31IzsNd5n0
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 1 FHD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=913457&extension=ts&play_token=d0Bo8b5sZH
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 1 HD 1080
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=913446&extension=ts&play_token=rQkG8iFV7N
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 1 FHD FEED
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=913447&extension=ts&play_token=dpBjEdN5Z9
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 1 UHD ULTRA
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=913448&extension=ts&play_token=QKLmbRMHAw
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 1 4K
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=913458&extension=ts&play_token=QIKLBRPsWp
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 2
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=913455&extension=ts&play_token=IsghdsmQ1t
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 2 HD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=913456&extension=ts&play_token=ytW4ZSirCT
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 2 HD 1080
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=913445&extension=ts&play_token=edDaValzFH
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 3 HD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=913454&extension=ts&play_token=qICo2EfJP5
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 3 HD 1080
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=913444&extension=ts&play_token=i9RoQOzKMq
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 4 HD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=913453&extension=ts&play_token=GFAIrvrjam
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 4 HD 1080
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=913443&extension=ts&play_token=ALMy18iAGx
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 5 FHD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=1091502&extension=ts&play_token=5247szy3ZL
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS 5 + FHD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=1091501&extension=ts&play_token=1FBAoG0PdB
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS MAX 1 HD 720
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=913452&extension=ts&play_token=gKnPNb5me3
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS MAX 1 HD 1080
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=913442&extension=ts&play_token=tYtgUGO0Et
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS MAX 2 HD 720
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=913451&extension=ts&play_token=mKvTCbbQxB
+#EXTINF:-1 group-title="TR| MAC KANALLARI",TR| BEIN SPORTS MAX 2 HD 1080
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=913441&extension=ts&play_token=ll8tCLpIU2
