@@ -1,2 +1,131 @@
 #EXTM3U
-# Liste su an gizlidir.
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",#####  BEIN SPORTS  #####
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=686362&extension=ts&play_token=7bd0oS5Puk
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORTS HABER HD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=686359&extension=ts&play_token=sqcnxyLxG8
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 1 HD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=686360&extension=ts&play_token=10ixh0osQM
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 2 HD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=686363&extension=ts&play_token=ZUnneFnlI5
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 3 HD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=686364&extension=ts&play_token=8vqcnRiS5G
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 4 HD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=686365&extension=ts&play_token=CrO3XEyYha
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT MAX 1 HD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=686439&extension=ts&play_token=U90CHTOyP5
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT MAX 2 HD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=686503&extension=ts&play_token=rWDBdwyfPh
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",#####. EXXEN SPORTS. #####
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=686505&extension=ts&play_token=6fnIGWjKJ5
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EXXEN SPORT 1 HD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=686504&extension=ts&play_token=awEbi3v2rF
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EXXEN SPORT 2 HD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=686506&extension=ts&play_token=wAHgD0uuyW
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EXXEN SPORT 3 HD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=686507&extension=ts&play_token=v8YSQUhmbV
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EXXEN SPORT 4 HD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=1053274&extension=ts&play_token=rUK98UEDNQ
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EXXEN SPORT 5 HD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=1053273&extension=ts&play_token=N5YddzpEBU
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EXXEN SPORT 6 HD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=1053272&extension=ts&play_token=uVqnki2X0P
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EXXEN SPORT 7 HD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=1053271&extension=ts&play_token=0qQ4SaOlzb
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EXXEN SPORT 8 HD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=1053270&extension=ts&play_token=skGyxOpizv
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",##### SPORT #####
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260071&extension=ts&play_token=uSXsUZ0Xp9
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EXXEN SPORT 1 HD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=618910&extension=ts&play_token=WUP6Fnrwag
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EXXEN SPORT 2 HD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=618909&extension=ts&play_token=Bl72EnOUiQ
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EXXEN SPORT 3 HD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=618908&extension=ts&play_token=4ppi0tMcmJ
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",D-TR - EXXEN SPOR 1 FHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=618907&extension=ts&play_token=K4t24dcQfJ
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",D-TR - EXXEN SPOR 2 FHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=618906&extension=ts&play_token=CW9gmXfHxR
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",D-TR - EXXEN SPOR 3 FHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=618905&extension=ts&play_token=huluvhNDmu
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 1 FHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260072&extension=ts&play_token=K6oLmZNqIP
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 1 UHD HEVC
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260073&extension=ts&play_token=Ya378lonAj
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 2 UHD HEVC
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260074&extension=ts&play_token=FveCqfxrY0
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 2 UHD+
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260075&extension=ts&play_token=ZjvUlHiDIg
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 3 FHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260076&extension=ts&play_token=octEv3BNwI
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 3 UHD HEVC
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260077&extension=ts&play_token=HHwPPTo9Bl
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 4 FHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260078&extension=ts&play_token=3xa1TvpfOH
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 4 UHD HEVC
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260079&extension=ts&play_token=uoEfhe1BoK
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 1 UHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260080&extension=ts&play_token=o2PwQ6I5zZ
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 2 UHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260081&extension=ts&play_token=0WBx7Sx7S9
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 3 UHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260082&extension=ts&play_token=TkgSsbPKGO
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT 4 UHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260083&extension=ts&play_token=RO1cqpWK6m
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT MAX 1 FHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260084&extension=ts&play_token=XjMlvwXhkw
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - BEIN SPORT MAX 2 FHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260085&extension=ts&play_token=1tyTSD3ThV
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - SMART SPORT UHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260087&extension=ts&play_token=J0Nn8nye1P
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - SMART SPORT UHD+
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260086&extension=ts&play_token=E9dd2LlH4i
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - SMART SPORT 2 UHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=943222&extension=ts&play_token=rcXTjdpPSS
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - TIVIBU SPORT UHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=1060514&extension=ts&play_token=yhT0dUDwPr
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - TIVIBU SPORT 1 UHD+
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260088&extension=ts&play_token=athKs5vLbt
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - TIVIBU SPORT 1 UHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260089&extension=ts&play_token=eWn7n8rmCE
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - TIVIBU SPORT 2 UHD+
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260090&extension=ts&play_token=tLOa9bHFx4
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - TIVIBU SPORT 2 UHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260091&extension=ts&play_token=gyRxOzUJwU
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - TIVIBU SPORT 3 UHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=1035121&extension=ts&play_token=dERtcylu9z
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - TIVIBU SPORT 4 UHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=1060515&extension=ts&play_token=kYRzx3u92v
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - TRT SPOR FHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260092&extension=ts&play_token=bSvwxqQvHQ
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - TRT SPOR UHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260093&extension=ts&play_token=j1gveADbL6
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - TRT SPORT 2 UHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260094&extension=ts&play_token=TWYTgKUR6S
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - A SPOR FHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260095&extension=ts&play_token=SPGh4i08D2
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - A SPOR UHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260096&extension=ts&play_token=pfl4Kirpap
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EUROSPORT 1 UHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260097&extension=ts&play_token=fjT4OWyClr
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - EUROSPORT 2 UHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260098&extension=ts&play_token=mj3Aq42hlW
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - S SPORT PLUS+1
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=1288110&extension=ts&play_token=5Plc8qSjz1
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - S SPORT PLUS+2
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=1288111&extension=ts&play_token=mgLf9I2pRd
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - S SPORT PLUS HD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=943835&extension=ts&play_token=Jw7QrBi7sY
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - S SPORT 1
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=683162&extension=ts&play_token=kTfF69d2BR
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - S SPORT 2
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=683163&extension=ts&play_token=OSatxJEAz5
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - GALATASARAY TV UHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260099&extension=ts&play_token=tIWJvvQCcT
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - HABER TURK SPOR
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=1156422&extension=ts&play_token=qfb0456YeK
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - MELTEM TV
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=662106&extension=ts&play_token=NcaxXGsnlp
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - FENERBAHÇE TV UHD
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260100&extension=ts&play_token=TdJSTezAOv
+#EXTINF:-1 group-title="|AS| TURKEY | SPOR",TR - TJK TV
+http://montv.sbs:80/play/live.php?mac=00:1A:79:3D:57:4F&stream=260103&extension=ts&play_token=cd4tbIGagW
