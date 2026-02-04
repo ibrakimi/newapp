@@ -1,107 +1,83 @@
 #EXTM3U
-#EXTINF:-1 group-title="|NA| USA NEWS",##### USA NEWS #####
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=552002&extension=ts&play_token=Glti8GxtxD
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - AL JAZEERA AMERICA HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=469294&extension=ts&play_token=Hv1R3b88C7
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - AL JAZEERA ENGLISH
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=469293&extension=ts&play_token=pCbAmfCl3p
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - NEWSMAX TV HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551775&extension=ts&play_token=bTgdgXHKJb
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - THE BLAZE HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=469341&extension=ts&play_token=zMlAbZ3Exj
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - BBC AMERICA HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=469295&extension=ts&play_token=hb444uNq8F
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - BLOOMBERG USA HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=469299&extension=ts&play_token=PZ9eiQLbg2
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - BLOOMBERG EUROPE HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=469300&extension=ts&play_token=WY3dlyQ17e
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - BNN HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=469301&extension=ts&play_token=SYfdCsIzOw
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - REAL AMERICAN VOICE
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=1094251&extension=ts&play_token=PUZKnZlN7K
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - DW ENGLISH HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=469315&extension=ts&play_token=Ge2Nq259Bj
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - FRANCE 24 HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=469321&extension=ts&play_token=jclIeuQ95z
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - CNN HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=552001&extension=ts&play_token=aPRR1kYIYp
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - CNN UHD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=552000&extension=ts&play_token=a2GhbC2wNB
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - CNN UHD (BK)
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551999&extension=ts&play_token=t8ixSwZGgG
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - CNN INTERNATIONAL HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551998&extension=ts&play_token=CpuoMck8wM
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - CNN MAX HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=985333&extension=ts&play_token=6pziNDzL5o
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - NEWSNATION HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551997&extension=ts&play_token=Vlc1IUIclW
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - CBS NEWS HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551996&extension=ts&play_token=EECotSJJkU
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - ABC NEWS LIVE HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551995&extension=ts&play_token=EJQQ6I9iDk
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - CNBC HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551993&extension=ts&play_token=U3s26K0tI2
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - CNBC WORLD HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551992&extension=ts&play_token=plqls4RCw3
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - CHEDDAR BUSINESS UHD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551991&extension=ts&play_token=zjR5GsxiU6
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - C-SPAN 1 HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551990&extension=ts&play_token=on63CTx7tw
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - C-SPAN 2 HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551989&extension=ts&play_token=jhsHCseVX2
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - C-SPAN 3 HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=1117492&extension=ts&play_token=do48ryc4XK
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - FOX NEWS HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551988&extension=ts&play_token=bQls2n3UwN
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - EURONEWS HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551987&extension=ts&play_token=XZjYuDaKGp
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - MSNBC HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551986&extension=ts&play_token=QcEFqW315t
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - RT AMERICA HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551985&extension=ts&play_token=ifkIycgHwB
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - BBC WORLD NEWS HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551984&extension=ts&play_token=YRfRJQy4FL
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - SPECTRUM NEWS 1 HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=720288&extension=ts&play_token=K77QnJQw64
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - SPECTRUM NEWS NY1
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=721886&extension=ts&play_token=k2R9ufHwdb
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - SPECTRUM NOTICIAS NY1
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=727798&extension=ts&play_token=gf0Ts4UzOS
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - SPECTRUM NEWS 13
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=864956&extension=ts&play_token=vTbxJvltn7
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - FRANCE 24 ENGLISH HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551983&extension=ts&play_token=vBr5kJJRMU
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - FOX NEWS CHANNEL HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551982&extension=ts&play_token=p85r1lJxOr
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - CHEDDAR BUSINESS HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551980&extension=ts&play_token=kuTKKctkZc
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - NEWS 12 BROOKLYN HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551979&extension=ts&play_token=Ofa5tV2kqB
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - NEWS 12 CONNECTICUT HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551978&extension=ts&play_token=qX7G9pcesC
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - NEWS 12 HUDSON VALLEY HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551977&extension=ts&play_token=rgsfY6kAlg
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - NEWS 12 LONG ISLAND HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551976&extension=ts&play_token=K5MVwwthrx
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - NEWS 12 NEW JERSEY HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551975&extension=ts&play_token=wZRKxt8hY0
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - NEWS 12 THE BRONX HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551974&extension=ts&play_token=M5HYmLCGCy
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - NEWS 12 WESTCHESTER HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551973&extension=ts&play_token=9OS24v3U9I
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - 7NEWS BOSTON (WHDH)
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=676422&extension=ts&play_token=NqPkGPoeoR
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - VEGAS34 (KMCC) LAS VEGAS
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=1171225&extension=ts&play_token=JVPxVfvDSm
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - NEWSY
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=682183&extension=ts&play_token=L2Xt1gSky1
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - NECN HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=924278&extension=ts&play_token=ZH5jv0BJgf
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - REVRY NEWS HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551971&extension=ts&play_token=7rUvR5rf8I
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - ONE AMERICA NEWS HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551970&extension=ts&play_token=XCiImUSAHR
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - TD AMERITRADE HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551969&extension=ts&play_token=IBQIpbSDdx
-#EXTINF:-1 group-title="|NA| USA NEWS",USA - FOX BUSINESS NETWORK HD
-http://tvpn.xyz:80/play/live.php?mac=00:1A:79:C3:82:9D&stream=551968&extension=ts&play_token=vq9c4N5myA
+#EXTINF:-1 group-title="TR| TURKIYE",##### TURKIYE 4K / HD #####
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912483&extension=ts&play_token=j80LhhuAy0
+#EXTINF:-1 group-title="TR| TURKIYE",TR| TRT 4K
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=916657&extension=ts&play_token=ef8aIiLcYB
+#EXTINF:-1 group-title="TR| TURKIYE",TR| TRT 1 4K
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912481&extension=ts&play_token=CuLWCSlV4n
+#EXTINF:-1 group-title="TR| TURKIYE",TR| TRT 1 HD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912457&extension=ts&play_token=qMieouJ648
+#EXTINF:-1 group-title="TR| TURKIYE",TR| TRT 2 4K
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912480&extension=ts&play_token=k66eAHuwnP
+#EXTINF:-1 group-title="TR| TURKIYE",TR| TRT 2 HD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912456&extension=ts&play_token=uQM0ELKuNz
+#EXTINF:-1 group-title="TR| TURKIYE",TR| ATV 4K
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912479&extension=ts&play_token=ig9gDhVlN4
+#EXTINF:-1 group-title="TR| TURKIYE",TR| ATV HD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912455&extension=ts&play_token=GGjILHTMg4
+#EXTINF:-1 group-title="TR| TURKIYE",TR| KANAL D 4K
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912478&extension=ts&play_token=DoCUxdAuyx
+#EXTINF:-1 group-title="TR| TURKIYE",TR| KANAL D HD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912454&extension=ts&play_token=tlnaw3X176
+#EXTINF:-1 group-title="TR| TURKIYE",TR| STAR TV 4K
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912477&extension=ts&play_token=OObyeqDvSp
+#EXTINF:-1 group-title="TR| TURKIYE",TR| STAR TV HD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912453&extension=ts&play_token=EUi5nfERUz
+#EXTINF:-1 group-title="TR| TURKIYE",TR| TV 8 4K
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912476&extension=ts&play_token=8bwdYYlpS2
+#EXTINF:-1 group-title="TR| TURKIYE",TR| TV 8 HD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912451&extension=ts&play_token=1x2ZPMtQ8l
+#EXTINF:-1 group-title="TR| TURKIYE",TR| SHOW TV 4K
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912475&extension=ts&play_token=AtUDszvYAI
+#EXTINF:-1 group-title="TR| TURKIYE",TR| SHOW TV HD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912452&extension=ts&play_token=AsOrMoCa8H
+#EXTINF:-1 group-title="TR| TURKIYE",TR| NOW TV 4K
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912474&extension=ts&play_token=rryG96aAXs
+#EXTINF:-1 group-title="TR| TURKIYE",TR| NOW HD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912449&extension=ts&play_token=plDBk6m4rk
+#EXTINF:-1 group-title="TR| TURKIYE",TR| TRT WORLD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=1603686&extension=ts&play_token=E43UAvgooJ
+#EXTINF:-1 group-title="TR| TURKIYE",TR| TV 8 INT 4K
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912473&extension=ts&play_token=X9mf2aiclX
+#EXTINF:-1 group-title="TR| TURKIYE",TR| TV 8.5 4K
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912472&extension=ts&play_token=JYrSBvypbw
+#EXTINF:-1 group-title="TR| TURKIYE",TR| TV 8.5 HD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912450&extension=ts&play_token=NoCi1F3OJr
+#EXTINF:-1 group-title="TR| TURKIYE",TR| TEVE 2 4K
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912471&extension=ts&play_token=nR3E9yYjFi
+#EXTINF:-1 group-title="TR| TURKIYE",TR| TEVE 2 HD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=1484841&extension=ts&play_token=oNp8hvH5B4
+#EXTINF:-1 group-title="TR| TURKIYE",TR| KANAL 7 4K
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912470&extension=ts&play_token=Fm6iJghGtk
+#EXTINF:-1 group-title="TR| TURKIYE",TR| KANAL 7 HD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912448&extension=ts&play_token=iH7HHxl8iD
+#EXTINF:-1 group-title="TR| TURKIYE",TR| BEYAZ TV 4K
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912469&extension=ts&play_token=no9WJwPeT2
+#EXTINF:-1 group-title="TR| TURKIYE",TR| BEYAZ TV HD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912447&extension=ts&play_token=g1ydvwUtxr
+#EXTINF:-1 group-title="TR| TURKIYE",TR| A2 4K
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912468&extension=ts&play_token=wIKYKOU08d
+#EXTINF:-1 group-title="TR| TURKIYE",TR| A2 HD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912444&extension=ts&play_token=OgMDlM2lTG
+#EXTINF:-1 group-title="TR| TURKIYE",TR| KANAL 360 4K
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912467&extension=ts&play_token=wKzgVcXCP5
+#EXTINF:-1 group-title="TR| TURKIYE",TR| KANAL 360 HD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=1484868&extension=ts&play_token=Nee0e3Fh6y
+#EXTINF:-1 group-title="TR| TURKIYE",TR| 360 TV HD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912443&extension=ts&play_token=0ieZWw7fuM
+#EXTINF:-1 group-title="TR| TURKIYE",TR| FLASH 4K
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=913463&extension=ts&play_token=Bb0iocRA4q
+#EXTINF:-1 group-title="TR| TURKIYE",TR| TRT AVAZ HD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912446&extension=ts&play_token=5TZ7vVT65V
+#EXTINF:-1 group-title="TR| TURKIYE",TR| TRT TURK HD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912445&extension=ts&play_token=PXHc2NPOpN
+#EXTINF:-1 group-title="TR| TURKIYE",TR| TV 4 HD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912442&extension=ts&play_token=ajhIyoBmEo
+#EXTINF:-1 group-title="TR| TURKIYE",TR| TURKMENELI TV HD
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=912441&extension=ts&play_token=8lO39TMhRV
+#EXTINF:-1 group-title="TR| TURKIYE",TR| EKIN TURK
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=1796073&extension=ts&play_token=iNgy1SZSVB
+#EXTINF:-1 group-title="TR| TURKIYE",TR| YOL TV
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=1796075&extension=ts&play_token=5RfamDBUku
+#EXTINF:-1 group-title="TR| TURKIYE",TR| YILDIZ TV
+http://goodchannel.lol:80/play/live.php?mac=00:1A:79:AE:3A:53&stream=1796074&extension=ts&play_token=amzwTIYYeQ
