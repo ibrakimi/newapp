@@ -1,211 +1,29 @@
 #EXTM3U
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| AFARIN TV HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=857488&extension=ts&play_token=VUod5yNoBe
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| AMOZHGARY TV HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324677&extension=ts&play_token=rV4W8tZRbT
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| ARO KIDS HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=987924&extension=ts&play_token=zdOmw3RaBl
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| ARTi TV
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=643452&extension=ts&play_token=vHYKsnjdkH
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| ARYEN TV
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324592&extension=ts&play_token=sFMLPRWgbH
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| ASMAN TV HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324676&extension=ts&play_token=GT8gwjv1nl
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| ASTERA BABY HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324621&extension=ts&play_token=1M9tJfKaoY
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| ASTERA DOCUMENTARY
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324616&extension=ts&play_token=bRJ3edJYxT
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| ASTERA FAMILY HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324615&extension=ts&play_token=d6vXEotmur
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| ASTERA MOVIES HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324618&extension=ts&play_token=OPj4ZEsCek
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| ASTERA SHOW HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324617&extension=ts&play_token=tIKfn0Zo18
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| ASTERA SPORT HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324619&extension=ts&play_token=yDhpvbgbQi
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| AVA TV
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324596&extension=ts&play_token=eLwlu6aaqW
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| BANGAWAZ
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324605&extension=ts&play_token=FdJOEMKqsl
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| BASK 4K
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=987905&extension=ts&play_token=v4n6eq3sH3
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| BMC
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324654&extension=ts&play_token=cKfVwmBzyi
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| CHANNEL 8 KUR HD
-https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| CIRA TV
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324594&extension=ts&play_token=1bDv5NKwX7
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| DASINYA SPORT
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324686&extension=ts&play_token=WigbZgbaWl
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| DERIN 4K
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=987923&extension=ts&play_token=KQXKUpgdYw
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| DERWAZE 4K
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=988041&extension=ts&play_token=KN92rfPcrv
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| DUHOK SPORT 4K
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=987920&extension=ts&play_token=1lkffOe4cy
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| DUHOK TV
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324661&extension=ts&play_token=pUXzyBrqH1
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| EURO KURD HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=642170&extension=ts&play_token=sLlBBtrnH6
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| GALI KURDISTAN TV
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324582&extension=ts&play_token=l8ozP27kDa
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| HELHELOK TV
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324752&extension=ts&play_token=w2GAJJ6D0X
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| IRAQIA KURD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324600&extension=ts&play_token=cQUoMTu3OR
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| ISHTAR TV
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=875148&extension=ts&play_token=k4bnvEn8yu
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| JAMAWAR
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=987906&extension=ts&play_token=au0U3MTSno
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| JIN TV
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324642&extension=ts&play_token=w4ZyLNSf1K
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| K24 HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324572&extension=ts&play_token=3ggiPWWHou
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| K4U MUSIC HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324777&extension=ts&play_token=36ZERgTpCx
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| KANAL HAYAT
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=995917&extension=ts&play_token=yheZMfbbGb
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| KANI 4K
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=987908&extension=ts&play_token=nzMsZYUWv1
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| KIRKUK TV
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324586&extension=ts&play_token=vJruQyAbDN
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| KRD CARTOON 2 HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324717&extension=ts&play_token=N2z74o0CcJ
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| KRD CINEMA 3 HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324744&extension=ts&play_token=cumzOnlmVx
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| KRD WILD LIFE HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324776&extension=ts&play_token=wPoCP3XGMs
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| KURD CHANNEL
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=995918&extension=ts&play_token=vzPVQtDv8j
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| KURD CHANNEL HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=1037204&extension=ts&play_token=EoqOYDTTCy
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| KURD MOVIES 4K
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=987944&extension=ts&play_token=raOn2h8DiV
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| KURDCINEMA ACTION HD2
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324690&extension=ts&play_token=qG1KDayTZ8
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| KURDCINEMA ACTION HD3
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324691&extension=ts&play_token=ZizpWQIWPr
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| KURDI HALAY
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=987960&extension=ts&play_token=ZwaeyIkc3F
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| KURDI HEDI TV
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324640&extension=ts&play_token=lUL2C4t8a5
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| KURDISTAN TV HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324584&extension=ts&play_token=iX55JyADAs
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| KURDMAX HD KURMANJI
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324576&extension=ts&play_token=hFcP8oYYvQ
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| KURDMAX HD SORANI
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324575&extension=ts&play_token=V0sLDbQFVp
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| KURDMAX HD SORANI
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=1448187&extension=ts&play_token=B7BQyxq8ki
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| KURDMAX SHOW HD SORANI
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324577&extension=ts&play_token=jPthaECbHb
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| KURDSAT TV HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324581&extension=ts&play_token=lPu4YxLZn9
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| KURDSHOW HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324741&extension=ts&play_token=86bt4NyLPL
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| LALISH TV
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324757&extension=ts&play_token=3bhyqpFaBh
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| LAWAN HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=987945&extension=ts&play_token=ihPiUPLXoK
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| LIVEDREAM HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324614&extension=ts&play_token=Gp1SOr6t8O
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| MED MUSIC TV
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324595&extension=ts&play_token=7PmOKC4X39
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| MEDYA HABER
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=442383&extension=ts&play_token=lEQPJvRelE
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| MINARA TV
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324659&extension=ts&play_token=AY33sowIEc
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| MINHRAB HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=987964&extension=ts&play_token=YA9DLGXrwx
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| MMN QURAN HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324636&extension=ts&play_token=ZtYx4SR4dK
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| NET TV HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324580&extension=ts&play_token=3DwQcruRgN
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| NEU TV
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324602&extension=ts&play_token=mbDsIbyIa1
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| NEVER
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324747&extension=ts&play_token=hWji5btUpj
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| NEW MAX BOX
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=987966&extension=ts&play_token=PFR8MBW71W
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| NEW MAX KIDS 4K
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=987969&extension=ts&play_token=nfGq0NxPaZ
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| NEWMAX COMEDY HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324700&extension=ts&play_token=TbEJElfnRL
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| NOOR 4K
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=987955&extension=ts&play_token=pYcv03mMvo
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| NRT 1 TV FHD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=818054&extension=ts&play_token=moqimbqBqR
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| NRT 3 KIDS HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324608&extension=ts&play_token=yQcSF67xrW
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| NRT 4 HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324609&extension=ts&play_token=eWbDYxqAJn
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| NRT HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=818053&extension=ts&play_token=ToZhYFvRi9
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| NRT2 SORANI HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324579&extension=ts&play_token=CtpdeoTaVM
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| PAYAM TV
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324657&extension=ts&play_token=MufqSkjLnn
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| PESHMERGE TV
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324740&extension=ts&play_token=lWHQlXmFpa
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| POPA KURDI HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324638&extension=ts&play_token=fTS96gAaaI
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| RANYA HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=987956&extension=ts&play_token=K5nQMl31re
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| RASAN HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324650&extension=ts&play_token=l8EdR2zaSz
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| RENG DOCUMENT HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324633&extension=ts&play_token=aZvFdXs3oW
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| RENG HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324632&extension=ts&play_token=A5ARUImQiM
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| ROJAVA
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324601&extension=ts&play_token=bFi2zIBtgR
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| RONAHI TV
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324593&extension=ts&play_token=xBtnvjym83
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| RUDAW FHD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=956412&extension=ts&play_token=MaApmFDkkd
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| RUDAW TV HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324571&extension=ts&play_token=ZKOHTnFyZ3
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| SAHAR TV
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324589&extension=ts&play_token=jdnFXNpcCb
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| SAUDI SUNNAH
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324675&extension=ts&play_token=ilmEQbNWxt
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| SEE SPORT 3 4K
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=987943&extension=ts&play_token=YwvCAQjmQE
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| SHA FILM 4K
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=987988&extension=ts&play_token=NLK4fw2FmB
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| SIMA MOVIES 4K
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=988038&extension=ts&play_token=uhxMwAemgB
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| SPEDA TV HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324587&extension=ts&play_token=ZHFb9caFJE
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| STERK TV
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324591&extension=ts&play_token=3RbsPAKGCj
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| STERK TV HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=442384&extension=ts&play_token=dv9vvIB1aJ
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| SUROYO TV
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324641&extension=ts&play_token=Hcf2dbtP3Y
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| TASAWF 4K
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=987962&extension=ts&play_token=ujdqwkvtwm
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| TRT KURDI
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=929811&extension=ts&play_token=TPjqnLYmlV
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| U TV HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324667&extension=ts&play_token=7vmQ9gSDfr
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| VAN 1 HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=695249&extension=ts&play_token=vlghukEmAe
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| WAAR TV HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324583&extension=ts&play_token=pyYTaS1ytD
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| ZAGROS TV FHD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=922108&extension=ts&play_token=2e2WIVwI96
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| ZAROK SORANI
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324769&extension=ts&play_token=R7tkZVI1Ss
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| ZAROK TV
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324604&extension=ts&play_token=TjxKWLs7CL
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| ZAXO 4K
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=987958&extension=ts&play_token=0HGvzj9tFf
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| ZAXO SPORT 4K
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=987926&extension=ts&play_token=538wl1HSxT
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| ZED TV HD
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324622&extension=ts&play_token=lMn9pBg98k
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| ZHYAR
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=324635&extension=ts&play_token=eZzF9XGLgs
-#EXTINF:-1 group-title="KU| KURDISTAN",KU| ZNAR 4K
-http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=987967&extension=ts&play_token=usI44Qgj75
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - ADULT TINY4K 2 TV
+http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=774010&extension=ts&play_token=lmkPFMDShd
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - ADULT TINY4K 3 TV
+http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=774040&extension=ts&play_token=rP7xgF8va7
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - ALBA XXX 2 (H)
+http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=309867&extension=ts&play_token=OPvawWUXhI
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - ALBA XXX 6
+http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=309868&extension=ts&play_token=EJoNtY8H97
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - ANAL TV
+http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=777791&extension=ts&play_token=KEEYcQz2mL
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - ASIAN TV
+http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=777784&extension=ts&play_token=wPPOQoiN3A
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - BARELY LEGAL TV (S)
+http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=128764&extension=ts&play_token=IIOq5z1uNK
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - BASHMENT
+http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=533615&extension=ts&play_token=LdnPDZl1x4
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - EROTIC 2 TV
+http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=777856&extension=ts&play_token=gCwx7uZm6P
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - FAP TV ANAL
+http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=128761&extension=ts&play_token=yVWhVsYmZa
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - GAY
+http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=777859&extension=ts&play_token=N3i2BCSspB
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - ROUGH
+http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=777860&extension=ts&play_token=3x59BZCtYJ
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - STARS EXCLUSIVE: JANICE GRIFFITH
+http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=533616&extension=ts&play_token=yT2zIHZA0a
+#EXTINF:-1 group-title="18| FOR ADULTS",XXX - STARS EXCLUSIVE: JANICE GRIFFITH TV
+http://klaratv.com:80/play/live.php?mac=00:1A:79:0D:A1:70&stream=774025&extension=ts&play_token=jAXYwAQFhi
